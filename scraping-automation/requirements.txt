@@ -1,4 +1,0 @@
-beautifulsoup4==4.9.3
-requests==2.32.3
-googlesearch-python==1.1.0
-python-dotenv==0.19.2

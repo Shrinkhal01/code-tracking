@@ -1,0 +1,5 @@
+backup:
+  source_directory: "data/important_files"
+  encrypted_backup_directory: "data/encrypted_backups"
+  retention_days: 7
+  schedule_time: "02:00"  # 2 AM daily
